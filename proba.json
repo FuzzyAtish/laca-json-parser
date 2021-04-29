@@ -1,0 +1,41 @@
+{
+  "valami1": {
+    "valami2": {
+      "valami3": {
+        "valami4": [
+          {
+            "valami6": ""
+          },
+          {
+            "valami7": {
+              "ujabbtomb": [
+                {
+                  "valami8": ""
+                },
+                {
+                  "zojjektum": {
+                    "trim": {
+                      "egyeb": "",
+                      "prices": {
+                        "mittommilyen": 2
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "ismet": {
+        "megint": {
+          "trim": {
+            "prices": {
+              "mittommilyen": 6
+            }
+          }
+        }
+      }
+    }
+  }
+}
